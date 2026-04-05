@@ -272,13 +272,4 @@ static void placemark(int row,int col,char mark)
 
 
 
-//package startedbuilding;
-//
-//public class TicTacToegame {
-//
-//	public static void main(String[] args) {
-//		// TODO Auto-generated method stub
-//
-//	}
-//
-//}
+
